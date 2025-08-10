@@ -121,7 +121,7 @@ var config = {
             description: '',
             location: {
                  center: [28.564,41.382],
-                zoom: 13.5,
+                zoom: 12,
                 pitch: 40,
                 bearing: 0
             },
@@ -151,7 +151,7 @@ var config = {
             description: '',
             location: {
                  center: [28.706,41.333],
-                zoom: 15,
+                zoom: 12,
                 pitch: 40,
                 bearing: 0,
         
@@ -177,7 +177,7 @@ var config = {
             description: '',
             location: {
                 center: [28.706,41.333],
-                zoom: 13,
+                zoom: 12,
                 pitch: 10,
                 bearing: 0,
               
@@ -203,7 +203,7 @@ var config = {
             description: '',
             location: {
                 center: [28.706,41.333],
-                zoom: 13,
+                zoom: 12,
                 pitch: 10,
                 bearing: 0,
               
@@ -229,7 +229,7 @@ var config = {
             description: '',
             location: {
                 center: [28.704,41.335],
-                zoom: 13,
+                zoom: 12,
                 pitch: 10,
                 bearing: 0,
                
@@ -255,7 +255,7 @@ var config = {
             description: '',
             location: {
                center: [28.704,41.335],
-                zoom: 13,
+                zoom: 12,
                 pitch: 0,
                 bearing: 0,
               
