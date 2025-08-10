@@ -151,7 +151,7 @@ var config = {
             description: '',
             location: {
                  center: [28.706,41.333],
-                zoom: 12,
+                zoom: 11,
                 pitch: 40,
                 bearing: 0,
         
@@ -177,8 +177,8 @@ var config = {
             description: '',
             location: {
                 center: [28.706,41.333],
-                zoom: 12,
-                pitch: 10,
+                zoom: 11,
+                pitch: 40,
                 bearing: 0,
               
                 // flyTo additional controls-
@@ -203,8 +203,8 @@ var config = {
             description: '',
             location: {
                 center: [28.706,41.333],
-                zoom: 12,
-                pitch: 10,
+                zoom: 11,
+                pitch: 40,
                 bearing: 0,
               
                 // flyTo additional controls-
@@ -228,9 +228,9 @@ var config = {
             image: '',
             description: '',
             location: {
-                center: [28.704,41.335],
-                zoom: 12,
-                pitch: 10,
+                center: [28.706,41.333],
+                zoom: 11,
+                pitch: 40,
                 bearing: 0,
                
                 // flyTo additional controls-
@@ -254,8 +254,8 @@ var config = {
             image: 'https://i.ibb.co/RpsRRgZD/MEF-AAP-027-BAP-PART-II-2025-07-31-19-15-50.png',
             description: '',
             location: {
-               center: [28.704,41.335],
-                zoom: 12,
+               center: [28.706,41.333],
+                zoom: 11,
                 pitch: 0,
                 bearing: 0,
               
@@ -280,9 +280,9 @@ var config = {
             image: '',
             description: '',
             location: {
-               center: [28.749,41.140],
+               center: [28.706,41.333],
                 zoom: 10,
-                pitch: 10,
+                pitch: 0,
                 bearing: 0,
                
                 // flyTo additional controls-
@@ -306,9 +306,9 @@ var config = {
             image: '',
             description: '',
             location: {
-                center: [28.764,41.017],
-                zoom: 12,
-                pitch: 10,
+                center: [28.706,41.333],
+                zoom: 11,
+                pitch: 0,
                 bearing: 0,
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
@@ -331,9 +331,9 @@ var config = {
             image: 'https://i.ibb.co/359PKRvq/MEF-AAP-027-BAP-PART-II-2025-07-31-18-59-02.png',
             description: '',
             location: {
-                center: [28.766,41.008],
-                zoom: 14,
-                pitch: 10,
+                center: [28.706,41.333],
+                zoom: 11,
+                pitch: 0,
                 bearing: 0,
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
@@ -356,7 +356,7 @@ var config = {
             image: '',
             description: '',
             location: {
-                center: [28.766,40.975],
+                center: [28.706,41.333],
                 zoom: 12,
                 pitch: 10,
                 bearing: 0,
@@ -380,9 +380,9 @@ var config = {
             image: 'https://i.ibb.co/Y4PHRkgR/MEF-AAP-027-BAP-PART-II-2025-07-31-19-28-54.png',
             description: '',
             location: {
-                center: [28.751,40.973],
-                zoom: 14,
-                pitch: 10,
+                center: [28.706,41.333],
+                zoom: 11,
+                pitch: 0,
                 bearing: 0,
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
