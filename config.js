@@ -60,8 +60,8 @@ var config = {
             image: 'https://i.ibb.co/ynP6zd3V/MEF-AAP-027-BAP-PART-II-2025-07-30-09-55-36.png',
             description: '',
             location: {
-              center: [28.706,41.333],
-                zoom: 15,
+              center: [28.845,41.287],
+                zoom: 14,
                 pitch: 40,
                 bearing: 0
             },
@@ -90,8 +90,8 @@ var config = {
             image: 'https://i.ibb.co/x8Y5FHnL/MEF-AAP-027-BAP-PART-II-2025-07-31-19-57-21.png',
             description: '',
             location: {
-              center: [28.706,41.333],
-                zoom: 15,
+              center: [28.720,41.329],
+                zoom: 14,
                 pitch: 40,
                 bearing: 0
             },
@@ -120,8 +120,8 @@ var config = {
             image: 'https://i.ibb.co/kbGpWJy/MEF-AAP-027-BAP-PART-II-2025-07-31-19-06-26.png',
             description: '',
             location: {
-                 center: [28.706,41.333],
-                zoom: 15,
+                 center: [28.564,41.382],
+                zoom: 13.5,
                 pitch: 40,
                 bearing: 0
             },
@@ -177,7 +177,7 @@ var config = {
             description: '',
             location: {
                 center: [28.706,41.333],
-                zoom: 15,
+                zoom: 13,
                 pitch: 10,
                 bearing: 0,
               
@@ -203,7 +203,7 @@ var config = {
             description: '',
             location: {
                 center: [28.706,41.333],
-                zoom: 15,
+                zoom: 13,
                 pitch: 10,
                 bearing: 0,
               
@@ -229,7 +229,7 @@ var config = {
             description: '',
             location: {
                 center: [28.704,41.335],
-                zoom: 15,
+                zoom: 13,
                 pitch: 10,
                 bearing: 0,
                
@@ -255,7 +255,7 @@ var config = {
             description: '',
             location: {
                center: [28.704,41.335],
-                zoom: 15,
+                zoom: 13,
                 pitch: 0,
                 bearing: 0,
               
