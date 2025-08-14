@@ -20,7 +20,7 @@ var config = {
     title: 'Karadeniz Dolgusu, Kıyı ve Deniz Tahribi/ Black Sea Landfil, Coastal and Marine Degradation ',
     subtitle: '',
     byline: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
-    footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
+    footer: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
     chapters: [
         {
             id: '1',
